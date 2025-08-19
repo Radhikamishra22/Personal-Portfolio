@@ -1,17 +1,5 @@
-# GitHub Portfolio
-
-### If you're struggling to create a portfolio website that looks professional, you don't have to search any further. You can use this GitHub Portfolio template to create your very own personalized portfolio using just your GitHub username! The website is designed to be user-friendly and easily customizable, which makes it an ideal solution for developers and freelancers alike.
-
----
-
-# Demo :movie_camera:
-
-![httpsgithub abusaid me](https://github.com/said7388/github-portfolio/assets/77630868/a331f996-1b4d-451a-941f-a15f5ae6de93)
-
-
-## View live preview [here](https://my-github-portfolio.netlify.app/)
-
----
+# Personal Portfolio
+This is my Personal Portfolio Website using React.
 
 # Installation :arrow_down:
 
@@ -71,7 +59,7 @@ Eg:
 NEXT_PUBLIC_GTM = ""
 ```
 
-### Now, you have to customize user data in the `data` [folder](https://github.com/said7388/developer-portfolio/tree/main/data).
+### Now, you have to customize user data in the `data` [folder](https://github.com/Radhikamishra22/personal-portfolio/tree/main/data).
 
 Eg:
 
