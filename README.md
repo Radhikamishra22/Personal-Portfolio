@@ -71,16 +71,7 @@ export const userData = {
   stackOverflow: "https://stackoverflow.com/users/31088289/radhika-mishra",
   leetcode: "https://leetcode.com/Radhikamishra22/",
   resume: "/C:/Users/RADHIKA%20MISHRA/OneDrive/Documents/Radhikaa22.pdf",
-  skills: [
-    "React",
-     "NextJS",
-      "HTML",
-      "CSS" ,
-       "Javascript",
-        "NodeJS",
-         "MySql",
-         "MongoDB",
-],
+  skills: ["React", "NextJS", "HTML", "CSS", "Javascript", "NodeJS", "MySql", "MongoDB"],
   timezone: '+6'
 };
 ```
